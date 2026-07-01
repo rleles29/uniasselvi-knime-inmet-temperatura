@@ -8,9 +8,9 @@ Instituto Nacional de Meteorologia (INMET), disponível em:
 
 https://portal.inmet.gov.br/dadoshistoricos
 
-A base selecionada é composta por 3.460 arquivos CSV, totalizando aproximadamente 2,14 GB,
+A base selecionada é composta por 4.114 arquivos CSV, totalizando aproximadamente 2,33 GB,
 correspondentes a registros horários de estações meteorológicas distribuídas
-por todo o território brasileiro, no período de 2020 até novembro de 2025.
+por todo o território brasileiro, no período de janeiro de 2020 até maio de 2026.
 
 Devido ao volume elevado dos dados, os arquivos não foram incluídos neste
 repositório. Para reprodução dos experimentos, recomenda-se o download direto
